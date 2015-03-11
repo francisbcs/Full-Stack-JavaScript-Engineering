@@ -2,12 +2,12 @@
 
 These pre-work tasks are recommended if you have any knowledge
 gaps. They are here to make sure you have a good foundational knowledge of
-JavaScript, jQuery, Git, and HTML/CSS
+JavaScript, jQuery, Git, and HTML/CSS.
 
 ## Code School
 
 We love CodeSchool.com's interactive courses. They are a great way to level up
-before the Development Acellorator.
+before the [Development Accelerator](https://www.codefellows.org/courses/development-accelerators/full-stack-javascript).
 
 * [Try jQuery](http://try.jquery.com)
 * [JavaScript Road Trip, Parts 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
